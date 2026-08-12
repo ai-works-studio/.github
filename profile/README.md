@@ -22,7 +22,7 @@ Our principles:
 - **Human-directed.** People remain in control of important decisions.
 - **Evidence-driven.** Working software and measurable outcomes beat speculation.
 - **Responsible by design.** Privacy, security, cost, and failure modes are product requirements.
-- **Built together.** The lab is a collaborative home for builders with complementary skills.
+- **Built together.** The studio is a collaborative home for builders with complementary skills.
 
 ## Current work
 
