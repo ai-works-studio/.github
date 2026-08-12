@@ -24,10 +24,6 @@ Our principles:
 - **Responsible by design.** Privacy, security, cost, and failure modes are product requirements.
 - **Built together.** The studio is a collaborative home for builders with complementary skills.
 
-## Current work
-
-[Worksmith](https://github.com/ai-works-studio/Worksmith) explores an affordable AI product team that turns customer ideas and operational problems into tested working software with explicit approvals, evidence, and budget controls.
-
 ## Collaborate
 
 We are interested in practical problems where custom software or AI automation could create meaningful leverage. Follow the organization to watch the work develop.
