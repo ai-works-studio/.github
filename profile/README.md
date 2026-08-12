@@ -1,8 +1,8 @@
-# AI Works Lab
+# AI Works Studio
 
 **Practical AI systems for real work.**
 
-AI Works Lab is an applied AI studio building useful software, automations, and agent-powered workflows. We turn ideas and operational bottlenecks into working tools that people can test, use, and improve.
+AI Works Studio is an applied AI studio building useful software, automations, and agent-powered workflows. We turn ideas and operational bottlenecks into working tools that people can test, use, and improve.
 
 ## What we build
 
